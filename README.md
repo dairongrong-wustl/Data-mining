@@ -1,5 +1,4 @@
-# Data-mining
-Data mining using Alzheimer’s disease gene data. 
+# Data-mining using Alzheimer’s disease gene data. 
 1. Grouped genes to get the underlying system in the brain of AD patients using k-means clustering. 
 Two similarity measures were used. 
 2. Apply PCA to the features of the dataset of AD and control combined; Plot the AD cases (labeled in red) and normal
